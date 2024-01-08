@@ -1,0 +1,11 @@
+/bitrix/*
+/.idea/*
+/upload/
+/vendor/
+composer.phar
+yandex_*.html
+yandex_*.txt
+google*.html
+sitemap*.xml
+restore.php
+*.DS_Store
